@@ -6,9 +6,8 @@ JavaSript, jQuery개발예제 코드 모음 입니다.
 
 ## JS
 
-- [Ajax 예제](./docs/Ajax_예제)
-
-- [전화번호 하이픈 넣기](./docs/전화번호_하이픈_넣기)
+- [Ajax 예제](./docs/Ajax_예제.md)
+- [전화번호 하이픈 넣기](./docs/전화번호_하이픈_넣기.md)
 
   
 
