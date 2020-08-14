@@ -21,4 +21,4 @@ JavaSript, jQuery개발예제 코드 모음 입니다.
 ## jQuery
 
 - [jQuery form submit](./docs/jQuery_form_submit.md)
-- [jQuery insert html tag](./docs/jQuery_insert_html tag.md)
+- [jQuery insert html tag](./docs/jQuery_insert_html_tag.md)
